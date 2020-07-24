@@ -5,7 +5,9 @@
     "test-c": "jest --coverage"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.157",
     "jest": "^26.0.1",
+    "lodash": "^4.17.15",
     "ts-jest": "^26.1.0",
     "typescript": "^3.9.5"
   },
